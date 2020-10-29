@@ -1,0 +1,8 @@
+CKEDITOR . eklentiler . setLang (  'tablo' ,  'tr' ,  {
+	border : 'Kenar Kalınlığı' ,
+	başlık : 'Başlık' ,
+	hücre : {
+		menu : 'Hücre' ,
+		insertBefore : 'Hücre Ekle - Önce' ,
+		insertAfter : 'HücreEkle - Sonra ' ,
+		deleteCell : 'Hücre Sil' ,
